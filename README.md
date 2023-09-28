@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-<img src="https://i.ibb.co/cb4SJK0/Completed-File-permissions-in-Linux-pg2a.jpg" alt="Completed-File-permissions-in-Linux-pg2a">
+<img src="https://i.ibb.co/Jm33675/Completed-File-permissions-in-Linux-pg2a.jpg" alt="Completed-File-permissions-in-Linux-pg2a" border="0">
 </p>
 
 <p align="center">
