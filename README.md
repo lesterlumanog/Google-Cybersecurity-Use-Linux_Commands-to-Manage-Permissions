@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-<img src="https://i.ibb.co/tMBvw70/Completed-File-permissions-in-Linux-pg5a.jpg" alt="Completed-File-permissions-in-Linux-pg5a" border="0">
+<img src="https://i.ibb.co/Gczpvzp/Completed-File-permissions-in-Linux-pg5a.jpg" alt="Completed-File-permissions-in-Linux-pg5a" border="0">
 </p>
 
 <p align="center">
