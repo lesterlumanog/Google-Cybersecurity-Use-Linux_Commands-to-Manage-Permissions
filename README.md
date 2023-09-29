@@ -8,39 +8,35 @@
 </br>
 
 <p align="center">
-<img src="https://i.ibb.co/0Jjwg4j/Completed-File-permissions-in-Linux-pg1a.jpg" alt="Completed-File-permissions-in-Linux-pg1a">
+<img src="https://i.ibb.co/hHSFmgp/Completed-File-permissions-in-Linux-pg1b.jpg" alt="Completed-File-permissions-in-Linux-pg1b" height="85%" width="85%">
 </p>
 
 <p align="center">
-<img src="https://i.ibb.co/Jm33675/Completed-File-permissions-in-Linux-pg2a.jpg" alt="Completed-File-permissions-in-Linux-pg2a" border="0">
+<img src="https://i.ibb.co/bPbTsQh/Completed-File-permissions-in-Linux-pg2b.jpg" alt="Completed-File-permissions-in-Linux-pg2b" height="85%" width="85%">
 </p>
 
 <p align="center">
-<img src="https://i.ibb.co/55WDPF2/Completed-File-permissions-in-Linux-pg3a.jpg" alt="Completed-File-permissions-in-Linux-pg3a">
+<img src="https://i.ibb.co/Y3Pgkx5/Completed-File-permissions-in-Linux-pg3b.jpg" alt="Completed-File-permissions-in-Linux-pg3b" height="85%" width="85%">
 </p>
 
 <p align="center">
-<img src="https://i.ibb.co/MG5bJRS/Completed-File-permissions-in-Linux-pg4a.jpg" alt="Completed-File-permissions-in-Linux-pg4a">
+<img src="https://i.ibb.co/zfjmbkW/Completed-File-permissions-in-Linux-pg4b.jpg" alt="Completed-File-permissions-in-Linux-pg4b" height="85%" width="85%">
 </p>
 
 <p align="center">
-<img src="https://i.ibb.co/Gczpvzp/Completed-File-permissions-in-Linux-pg5a.jpg" alt="Completed-File-permissions-in-Linux-pg5a" border="0">
+<img src="https://i.ibb.co/nbhX9v2/Completed-File-permissions-in-Linux-pg5b.jpg" alt="Completed-File-permissions-in-Linux-pg5b" height="85%" width="85%">
 </p>
 
 <p align="center">
-<img src="https://i.ibb.co/hBFbRjG/Completed-File-permissions-in-Linux-pg6a.jpg" alt="Completed-File-permissions-in-Linux-pg6a">
+<img src="https://i.ibb.co/DCdpShN/Completed-File-permissions-in-Linux-pg6b.jpg" alt="Completed-File-permissions-in-Linux-pg6b" height="85%" width="85%">
 </p>
 
 <p align="center">
-<img src="https://i.ibb.co/HVPGcBq/Completed-File-permissions-in-Linux-pg7a.jpg" alt="Completed-File-permissions-in-Linux-pg7a">
+<img src="https://i.ibb.co/nshw7r1/Completed-File-permissions-in-Linux-pg7b.jpg" alt="Completed-File-permissions-in-Linux-pg7b" height="85%" width="85%">
 </p>
 
 <p align="center">
-<img src="https://i.ibb.co/KGnCD8J/Completed-File-permissions-in-Linux-pg8a.jpg" alt="Completed-File-permissions-in-Linux-pg8a">
-</p>
-
-<p align="center">
-<img src="https://i.ibb.co/sCQzL5s/Completed-File-permissions-in-Linux-pg9.jpg" alt="Completed-File-permissions-in-Linux-pg9">
+ <img src="https://i.ibb.co/ggFMq9f/Completed-File-permissions-in-Linux-pg8b.jpg" alt="Completed-File-permissions-in-Linux-pg8b" height="85%" width="85%">
 </p>
 
 
