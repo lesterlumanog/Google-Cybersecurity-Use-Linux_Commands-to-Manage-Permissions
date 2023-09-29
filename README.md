@@ -2,7 +2,7 @@
 
 <h2>Overview</h2>
 
-<h2>The following is a lab exercise I completed using Qwiklabs (a virtual environment), and a template provided by the Google Cybersecurity Certificate course concerning the use of Linux commands to observe files, hidden files, directories and their permissions as well as to modify permissions.</h2>
+<h3>The following is a lab exercise I completed using Qwiklabs (a virtual environment), and a template provided by the Google Cybersecurity Certificate course concerning the use of Linux commands to observe files, hidden files, directories and their permissions as well as to modify permissions.</h3>
 
 </br>
 </br>
