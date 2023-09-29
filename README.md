@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-<img src="https://i.ibb.co/Y3Pgkx5/Completed-File-permissions-in-Linux-pg3b.jpg" alt="Completed-File-permissions-in-Linux-pg3b" height="85%" width="85%">
+<img src="https://i.ibb.co/YfwTG45/Completed-File-permissions-in-Linux-pg3b.jpg" alt="Completed-File-permissions-in-Linux-pg3b" height="85%" width="85%">
 </p>
 
 <p align="center">
